@@ -1,6 +1,6 @@
 #!/bin/bash
 
-repoDir='https://raw.githubusercontent.com/Denisupraptor/ubuntu/main/'
+repoDir='https://raw.githubusercontent.com/Denisuprapto/ubuntu/main/'
 
 updateScript() {
 	echo -e ""

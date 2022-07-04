@@ -54,7 +54,7 @@ Copy dan paste code di bawah ke dalam terminal lalu tekan enter.
 
 **Ubuntu 20.04:**
 ```bash
-wget -qO install.sh "https://raw.githubusercontent.com/Denisupraptor/ubuntu/main/install.sh"; chmod +x install.sh; ./install.sh
+wget -qO install.sh "https://raw.githubusercontent.com/Denisuprapto/ubuntu/main/install.sh"; chmod +x install.sh; ./install.sh
 ```
 
 ## Akhir Kalam ...
